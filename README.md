@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/banners/368381286743539723/a_e22de4f0657ff61845b6789d996fcb3c?size=4096)]
+[![MasterHead](https://cdn.discordapp.com/banners/368381286743539723/a_e22de4f0657ff61845b6789d996fcb3c?size=4096)
 <h1 align="center">Hi 👋, I'm ALM7SHSH</h1>
 <h3 align="center">A passionate backend developer from Qatar</h3>
 
