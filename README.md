@@ -1,4 +1,4 @@
-![MasterHead]([https://cdn.discordapp.com/banners/368381286743539723/a_e22de4f0657ff61845b6789d996fcb3c?size=4096](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2019/01/13190820/pin-comediante-1.gif))
+[![MasterHead](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2019/01/13190820/pin-comediante-1.gif)]()
 <h1 align="center">Hi 👋, I'm ALM7SHSH</h1>
 <h3 align="center">A passionate backend developer from Qatar</h3>
 
