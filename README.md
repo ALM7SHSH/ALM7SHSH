@@ -1,4 +1,4 @@
-[![MasterHead]([[https://i.imgur.com/lP51w0w.gif](https://media.tenor.com/mPhPpNYxJJgAAAAC/watch-man-smile-face.gif))]()
+[![MasterHead](https://i.imgur.com/lP51w0w.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm ALM7SHSH</h1>
 <h3 align="center">A passionate backend developer from Qatar</h3>
 
