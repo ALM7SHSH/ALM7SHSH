@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/mPhPpNYxJJgAAAAC/watch-man-smile-face.gif)]()
+[![MasterHead](https://i.ibb.co/Q9f9r46/github-header-image.png)]()
 <h1 align="center">Hi 👋, I'm ALM7SHSH</h1>
 <h3 align="center">A passionate backend developer from Qatar</h3>
 
